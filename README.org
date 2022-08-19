@@ -1,0 +1,9 @@
+#+TITLE: F# Tetris
+
+A tetris made in F# with Silk.NET based on [[https://tetris.wiki/Sega_Tetris][Sega Tetris]]
+
+* How to run
+On the root of the project, run:
+#+BEGIN_SRC shell
+dotnet run
+#+END_SRC
